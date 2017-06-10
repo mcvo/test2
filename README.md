@@ -6,4 +6,4 @@ One Paragraph of project description goes here
 - Twitter: http://twitter.com/davegandy
 - GitHub: https://github.com/davegandy
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+(https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
