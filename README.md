@@ -1,5 +1,4 @@
-# ![alogo](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
-
+# Project name
 One Paragraph of project description goes here
 
 ## Author
